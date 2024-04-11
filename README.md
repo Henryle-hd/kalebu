@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kalebu)
 
-![kalibu](/kalibu-ezgif.com-effects.gif)
+![kalibu](/kalibu2.gif)
 <samp>
 <p>Hi there !</p>
 

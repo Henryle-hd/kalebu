@@ -113,17 +113,7 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
                 <p>Serverless</p>
                 <ul>
                     <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
-                     <li>
-
-[![languages](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-</li>
                     <li> Google Cloud run</li>
-                     <li>
-
-[![languages](https://skillicons.dev/icons?i=googlecloud)](https://skillicons.dev)
-
-</li>
                 </ul>
                 </li>
             <li>

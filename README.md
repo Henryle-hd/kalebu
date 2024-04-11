@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kalebu)
 
-
+![kalibu](/kalibu-ezgif.com-effects.gif)
 <samp>
 <p>Hi there !</p>
 
@@ -39,13 +39,26 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 
 [![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
+
+
 <h3>My Tech stack</h3>
 <ul>
     <li>
         <p><b>languages</b></p>
         <ul>
             <li>Python | Javascript | Rust | C/C++ | Arduino </li>
-            <li>Html | Css | Yaml | Json</li>
+            <li>
+
+[![languages](https://skillicons.dev/icons?i=py,js,rust,c,arduino)](https://skillicons.dev)
+
+</li>
+ <li>Html | Css | Yaml | Json</li>
+
+ <li>
+
+[![languages](https://skillicons.dev/icons?i=html,css,json)](https://skillicons.dev)
+
+</li>
         </ul>
     </li>
     <li>
@@ -55,26 +68,62 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
                 <p>Web Frameworks</p>
                 <ul>
                     <li>Flask | FastAPI | Sanic | Django | Tornado | Express</li>
+
+ <li>
+
+[![languages](https://skillicons.dev/icons?i=flask,fastapi,django)](https://skillicons.dev)
+
+</li>
                 </ul>
             <li>
                 <p>Data Science (ML/AI)</p>
                 <ul>
                     <li>Sklearn | PyTorch | Tensorflow</li>
+                     <li>
+
+[![languages](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
+
+</li>
                 </ul>
             </li>
             <li>
                 <p> Databases & Storange</p>
                 <ul>
                     <li> Sqlite | Mysql | MariaDB | Amazon Auora</li>
+                     <li>
+
+[![languages](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+
+</li>
                     <li>MongoDB | Firestore | Amazon DocumentDB </li>
+                     <li>
+
+[![languages](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+
+</li>
                     <li> DynamoDB | S3 | Kinesis |  Redis</li>
+                     <li>
+
+[![languages](https://skillicons.dev/icons?i=dynamodb,redis)](https://skillicons.dev)
+
+</li>
                 </ul>
                 </li>
             <li>
                 <p>Serverless</p>
                 <ul>
                     <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
+                     <li>
+
+[![languages](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+</li>
                     <li> Google Cloud run</li>
+                     <li>
+
+[![languages](https://skillicons.dev/icons?i=googlecloud)](https://skillicons.dev)
+
+</li>
                 </ul>
                 </li>
             <li>
@@ -89,37 +138,71 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <p> Cloud & Hosting</samp</p>
             <ul>
                 <li>AWS | Google Cloud | Digital Ocean | Heroku | Vercel </li>
+                 <li>
+
+[![languages](https://skillicons.dev/icons?i=aws,googlecloud,heroku,vercel)](https://skillicons.dev)
+
+</li>
             </ul>
         </li>
         <li>
             <p> API Testing</samp</p>
             <ul>
                 <li> Insomia | Postman </li>
+                 <li>
+
+[![languages](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+</li>
             </ul>
         </li>
         <li>
             <p> Distros </samp</p>
             <ul>
                 <li> Ubuntu | Deepin | Kali </li>
+                 <li>
+
+[![languages](https://skillicons.dev/icons?i=ubuntu,kali)](https://skillicons.dev)
+
+</li>
             </ul>
         </li>
         <li>
             <p> Shells </samp</p>
             <ul>
                 <li> Zsh | Bash  </li>
+                 <li>
+
+[![languages](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+
+</li>
             </ul>
         </li>
         <li>
             <p> Version Control </samp</p>
             <ul>
                 <li> Git | Github  </li>
+                 <li>
+
+[![languages](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+</li>
             </ul>
         </li>
         <li>
             <p> Code Editor(IDE) + Environment </samp</p>
             <ul>
-                <li> VSCode | Sublime | Vim | Nano  </li>
+                <li> VSCode | Sublime | Vim | Nano  
+                </li>
+                 <li>
+
+[![languages](https://skillicons.dev/icons?i=vscode,sublime,vim)](https://skillicons.dev)
+
+</li>
                 <li> Music + Coffee + Snacks
+                 <li>🎧☕
+
+</li>
             </ul>
         </li>
         </ul>
@@ -227,6 +310,6 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
                          
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=kalebu&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) 
+![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true)
 
 
